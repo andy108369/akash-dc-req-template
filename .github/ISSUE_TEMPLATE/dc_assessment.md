@@ -1,5 +1,6 @@
 ---
-name: "Data Center Capability Assessment for Akash Provider Deployment"
+name: "Data Center Capability Assessment"
+about: "Assess a data center's compatibility with Akash Provider Deployment requirements"
 title: "[DC assessment]: "
 labels: ["datacenter", "assessment"]
 ---
