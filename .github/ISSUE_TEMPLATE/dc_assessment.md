@@ -1,5 +1,6 @@
 ---
-title: "Data Center Capability Assessment for Akash Provider Deployment"
+name: "Data Center Capability Assessment for Akash Provider Deployment"
+title: "[DC assessment]: "
 labels: ["datacenter", "assessment"]
 ---
 
